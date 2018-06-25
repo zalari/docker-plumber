@@ -102,3 +102,8 @@ A couple of other approaches to hosting plumber are also made available:
 ## Provenance
 
 plumber was originally released as the `rapier` package and has since been renamed (7/13/2015).
+
+## Tags
+*Latest* will refer to the latest tag of this image, so not necessarily the latest Plumber release
+
+* 0.4.6
